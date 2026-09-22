@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+
+# Local tools
+.vscode/
+.idea/
+.DS_Store
+
+# Evidence that may contain sensitive data
+docs/evidence/*
+!docs/evidence/.gitkeep
