@@ -11,7 +11,7 @@ Projeto prático de Cloud, DevOps e Solutions Engineering: execução local, arq
 - Projetar uma arquitetura com VPC, EC2 e RDS.
 - Aplicar isolamento de rede e Security Groups.
 - Validar persistência e operação da API.
-- Transformar cada etapa em evidência técnica, commit e publicação no LinkedIn.
+
 
 ## 🧱 Arquitetura-alvo
 
