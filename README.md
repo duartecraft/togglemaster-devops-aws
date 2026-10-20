@@ -34,7 +34,7 @@ Cliente → Internet Gateway → EC2 pública → ToggleMaster API → RDS Postg
 - `docs/ROADMAP.md`: plano de execução.
 - `docs/ARCHITECTURE.md`: desenho e decisões arquiteturais.
 - `docs/12-factor-checklist.md`: análise do 12-Factor App.
-- `docs/labs/`: procedimentos reproduzíveis.
+- `docs/labs/`: procedimentos reproduzíveis — o [playbook AWS](docs/labs/aws-deployment.md) documenta o deploy real com evidências.
 - `docs/linkedin/`: rascunhos dos posts.
 - `docs/evidence/`: evidências sem dados sensíveis.
 - `diagrams/`: diagramas exportados.
