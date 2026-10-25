@@ -10,7 +10,7 @@ API monolítica em Python (Flask + Gunicorn) executada localmente com Docker Com
 
 | Entregável (enunciado) | Onde está | Status |
 |---|---|---|
-| Vídeo de demonstração (até 15 min) | Link no relatório de entrega · [roteiro](docs/entrega/ROTEIRO-VIDEO.md) | ⏳ Gravação |
+| Vídeo de demonstração (até 15 min) | Link no [relatório de entrega](docs/entrega/RELATORIO-ENTREGA.md) | ⏳ Gravação |
 | Link para o diagrama de arquitetura | [`diagrams/togglemaster-arquitetura-aws.png`](diagrams/togglemaster-arquitetura-aws.png) · [`.drawio`](diagrams/togglemaster-arquitetura-aws.drawio) | ✅ |
 | Discussão sobre o 12-Factor App aplicada ao projeto | [`docs/12-factor-checklist.md`](docs/12-factor-checklist.md) | ✅ |
 | Relatório de entrega (.pdf ou .txt) | [`docs/entrega/RELATORIO-ENTREGA.md`](docs/entrega/RELATORIO-ENTREGA.md) · PDF na mesma pasta | ✅ (falta o link do vídeo) |
@@ -51,7 +51,7 @@ Todas as evidências, com dados sensíveis borrados: [`docs/evidence/aws/`](docs
 | [`docs/labs/aws-deployment.md`](docs/labs/aws-deployment.md) | **Playbook AWS**: passo a passo com evidências, de IAM a validação e custos |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Diagrama, componentes, regras e decisões |
 | [`docs/12-factor-checklist.md`](docs/12-factor-checklist.md) | Análise dos 12 Fatores e do monolito |
-| [`docs/entrega/`](docs/entrega/) | Relatório de entrega e roteiro do vídeo |
+| [`docs/entrega/`](docs/entrega/) | Relatório de entrega (.md e .pdf) |
 
 ## 🔗 Código
 
@@ -62,6 +62,10 @@ Todas as evidências, com dados sensíveis borrados: [`docs/evidence/aws/`](docs
 
 Nenhuma senha, chave SSH, arquivo `.env`, ID de conta ou IP administrativo é versionado. Consulte [`SECURITY.md`](SECURITY.md).
 
-## 👤 Autor
+## 👥 Grupo 9
 
-Matheus Menezes — Solutions Engineer | Cloud | DevOps | Infrastructure
+- Bruno de Assis Fernandes
+- Matheus Menezes Duarte
+- Paulo Ricardo Ribeiro dos Santos
+- Rodrigo Augusto Hentz Alves
+- Vinicius Kostriuba
