@@ -20,3 +20,5 @@ credentials
 # Evidence that may contain sensitive data
 docs/evidence/*
 !docs/evidence/.gitkeep
+# Exceção: prints do playbook AWS, anonimizados e revisados (ID da conta, IP e endpoint borrados)
+!docs/evidence/aws/
