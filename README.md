@@ -6,6 +6,14 @@ API monolítica em Python (Flask + Gunicorn) executada localmente com Docker Com
 
 ![Status](https://img.shields.io/badge/deploy-AWS%20us--east--1-orange) ![Stack](https://img.shields.io/badge/stack-Flask%20%7C%20Gunicorn%20%7C%20PostgreSQL-blue) ![Custo](https://img.shields.io/badge/custo%20estimado-US%24%2027%2C41%2Fm%C3%AAs-green)
 
+## 👥 Grupo 9
+
+- Bruno de Assis Fernandes
+- Matheus Menezes Duarte
+- Paulo Ricardo Ribeiro dos Santos
+- Rodrigo Augusto Hentz Alves
+- Vinicius Kostriuba
+
 ## 📦 Entregáveis da Fase 1
 
 | Entregável (enunciado) | Onde está | Status |
@@ -61,11 +69,3 @@ Todas as evidências, com dados sensíveis borrados: [`docs/evidence/aws/`](docs
 ## ⚠️ Segurança
 
 Nenhuma senha, chave SSH, arquivo `.env`, ID de conta ou IP administrativo é versionado. Consulte [`SECURITY.md`](SECURITY.md).
-
-## 👥 Grupo 9
-
-- Bruno de Assis Fernandes
-- Matheus Menezes Duarte
-- Paulo Ricardo Ribeiro dos Santos
-- Rodrigo Augusto Hentz Alves
-- Vinicius Kostriuba
