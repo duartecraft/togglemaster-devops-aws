@@ -7,7 +7,6 @@
 3. Registrar comandos, evidências e decisões.
 4. Remover segredos e dados sensíveis.
 5. Fazer commit pequeno e descritivo.
-6. Atualizar o post correspondente.
 
 ## Padrão de commit
 
