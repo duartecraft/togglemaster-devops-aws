@@ -133,9 +133,9 @@ Arquivo editável: [`diagrams/togglemaster-arquitetura-aws.drawio`](../../diagra
 | Decisão | Motivo |
 |---|---|
 | Região us-east-1 | Cerca de metade do preço de São Paulo; a latência não importa para o MVP |
-| Duas zonas de disponibilidade | O RDS exige um DB subnet group com sub-redes em pelo menos duas zonas |
+| Rede em duas zonas **diferentes** (us-east-1a e us-east-1b) | Exigência do RDS: o DB subnet group precisa de sub-redes em pelo menos duas zonas diferentes. Por isso há uma sub-rede privada em cada zona |
+| Banco Single-AZ | Não contradiz a linha anterior: o subnet group diz **onde o banco pode rodar** (duas zonas); o Single-AZ diz que **uma única instância** roda, numa zona só (a AWS escolheu a us-east-1b). Multi-AZ dobraria o custo e não é exigido nesta fase |
 | Sem NAT Gateway | Custa cerca de US$ 32/mês e o banco não precisa sair para a internet |
-| Single-AZ no RDS | Multi-AZ dobraria o custo do banco e não é exigido nesta fase |
 | Sem Load Balancer | A API é acessada direto pelo IP da EC2; ALB com HTTPS fica para as próximas fases |
 
 ---
