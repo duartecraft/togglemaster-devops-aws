@@ -2,12 +2,13 @@
 
 **POSTECH · DevOps e Arquitetura Cloud · Projeto ToggleMaster**
 
-## Participantes
+## Participantes — Grupo 9
 
-| Nome | RM |
-|---|---|
-| Matheus Menezes | `<RM>` |
-| `<nome do participante>` | `<RM>` |
+- Bruno de Assis Fernandes
+- Matheus Menezes Duarte
+- Paulo Ricardo Ribeiro dos Santos
+- Rodrigo Augusto Hentz Alves
+- Vinicius Kostriuba
 
 ## Links
 
