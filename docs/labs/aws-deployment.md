@@ -166,7 +166,9 @@ Tudo que não está na lista fica bloqueado: criar usuários, usar outras regiõ
 
 ![deploy-projeto sem acesso aos dados de faturamento](../evidence/aws/07-iam-sem-acesso-faturamento.png)
 
-> **Pendência:** o usuário também recebeu a política gerenciada `AWSBillingConductorFullAccess`, marcada no print acima. Ela não é necessária ao projeto e deve ser removida em **IAM → Users → deploy-projeto → Remover**, para manter o privilégio mínimo.
+> **Sobre a política `AWSBillingConductorFullAccess`** (marcada no print acima): ela foi anexada ao `deploy-projeto` apenas durante a geração da estimativa de custos. Não é necessária para operar a infraestrutura, e a própria estimativa já é coberta pela política do projeto (bloco `OrcamentoEAlerta`, ação `bcm-pricing-calculator:*`).
+>
+> Neste projeto, o `deploy-projeto` é operado por quem também administra a conta. Por isso a exposição dessa permissão a mais é controlada. Ainda assim, o privilégio mínimo deve seguir a **granularidade de quem acessa cada parte**: quem opera EC2, VPC e RDS não precisa de permissões de faturamento. Se o usuário for compartilhado com outra pessoa do grupo, a política deve ser removida em **IAM → Users → deploy-projeto → Remover**, e tarefas de custo devem ficar com o administrador da conta.
 
 ---
 
