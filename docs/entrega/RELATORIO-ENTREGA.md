@@ -14,7 +14,7 @@
 
 | Item | Link |
 |---|---|
-| Vídeo de demonstração | `<link do YouTube>` |
+| Vídeo de demonstração | https://youtu.be/twDQ2m7_GEc |
 | Documentação | https://github.com/duartecraft/togglemaster-devops-aws |
 | Diagrama de arquitetura | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.png |
 | Diagrama editável (diagrams.net) | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.drawio |
