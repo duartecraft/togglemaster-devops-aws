@@ -18,10 +18,10 @@ API monolítica em Python (Flask + Gunicorn) executada localmente com Docker Com
 
 | Entregável (enunciado) | Onde está | Status |
 |---|---|---|
-| Vídeo de demonstração (até 15 min) | Link no [relatório de entrega](docs/entrega/RELATORIO-ENTREGA.md) | ⏳ Gravação |
+| Vídeo de demonstração (até 15 min) | [https://youtu.be/twDQ2m7_GEc](https://youtu.be/twDQ2m7_GEc) | ✅ |
 | Link para o diagrama de arquitetura | [`diagrams/togglemaster-arquitetura-aws.png`](diagrams/togglemaster-arquitetura-aws.png) · [`.drawio`](diagrams/togglemaster-arquitetura-aws.drawio) | ✅ |
 | Discussão sobre o 12-Factor App aplicada ao projeto | [`docs/12-factor-checklist.md`](docs/12-factor-checklist.md) | ✅ |
-| Relatório de entrega (.pdf ou .txt) | [`docs/entrega/RELATORIO-ENTREGA.md`](docs/entrega/RELATORIO-ENTREGA.md) · PDF na mesma pasta | ✅ (falta o link do vídeo) |
+| Relatório de entrega (.pdf ou .txt) | [`docs/entrega/RELATORIO-ENTREGA.md`](docs/entrega/RELATORIO-ENTREGA.md) · PDF na mesma pasta | ✅ |
 | Estimativa de custos (print) | [Relatório](docs/entrega/RELATORIO-ENTREGA.md#estimativa-de-custos) · [evidência](docs/evidence/aws/16-estimativa-de-custos.png) | ✅ |
 
 ## 🧱 Arquitetura
