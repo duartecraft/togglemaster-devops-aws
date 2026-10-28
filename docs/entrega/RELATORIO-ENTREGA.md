@@ -14,13 +14,13 @@
 
 | Item | Link |
 |---|---|
-| Vídeo de demonstração | https://youtu.be/twDQ2m7_GEc |
-| Documentação | https://github.com/duartecraft/togglemaster-devops-aws |
-| Diagrama de arquitetura | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.png |
-| Diagrama editável (diagrams.net) | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.drawio |
-| Discussão 12-Factor App | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/12-factor-checklist.md |
-| Playbook do deploy na AWS | https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/labs/aws-deployment.md |
-| Código da aplicação (fork com ajustes) | https://github.com/duartecraft/toggle-master-monolith |
+| Vídeo de demonstração | [https://youtu.be/twDQ2m7_GEc](https://youtu.be/twDQ2m7_GEc) |
+| Documentação | [https://github.com/duartecraft/togglemaster-devops-aws](https://github.com/duartecraft/togglemaster-devops-aws) |
+| Diagrama de arquitetura | [https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.png](https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.png) |
+| Diagrama editável (diagrams.net) | [https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.drawio](https://github.com/duartecraft/togglemaster-devops-aws/blob/main/diagrams/togglemaster-arquitetura-aws.drawio) |
+| Discussão 12-Factor App | [https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/12-factor-checklist.md](https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/12-factor-checklist.md) |
+| Playbook do deploy na AWS | [https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/labs/aws-deployment.md](https://github.com/duartecraft/togglemaster-devops-aws/blob/main/docs/labs/aws-deployment.md) |
+| Código da aplicação (fork com ajustes) | [https://github.com/duartecraft/toggle-master-monolith](https://github.com/duartecraft/toggle-master-monolith) |
 
 ## Resumo da solução
 
